@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LWCategory'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of LWCategory.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/lilw1771/LWCategory'
+  s.homepage         = 'https://github.com/lilw1771/LWCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lilw1771' => '545885919@qq.com' }
-  s.source           = { :git => 'https://github.com/lilw1771/LWCategory.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/lilw1771/LWCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
