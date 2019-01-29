@@ -1,0 +1,22 @@
+{
+  "name": "LWCategory",
+  "version": "1.0.0",
+  "summary": "A short description of LWCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lilw1771/LWCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lilw1771": "545885919@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lilw1771/LWCategoryKit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LWCategory/Classes/**/*"
+}

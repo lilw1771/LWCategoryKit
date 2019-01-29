@@ -1,0 +1,16 @@
+PODS:
+  - LWCategory (1.0.0)
+
+DEPENDENCIES:
+  - LWCategory (from `../`)
+
+EXTERNAL SOURCES:
+  LWCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LWCategory: 07c5b975a1caeeacb27e2c5801d6c7cc7f44b6cb
+
+PODFILE CHECKSUM: cbb9d0b8b4a893e510b7bab91765e8ccb8c6c028
+
+COCOAPODS: 1.5.3
